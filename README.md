@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me
 
 👋 Hello! I'm Antoni.<br>
 🎯 My focus is on mobile application development.<br>
@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### **Languages**
 
@@ -41,13 +41,13 @@
 
 ---
 
-## 🚀 Latest Projects:
+## 🚀 Latest Projects
 
 - [MazeGeneratorAndSolver](https://github.com/Antoni-Vasilev/MazeGeneratorAndSolver)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px">
 
