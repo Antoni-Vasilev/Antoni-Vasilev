@@ -49,9 +49,10 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px">
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni-Vasilev&theme=gruvbox&card_width=200&langs_count=5)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antoni-Vasilev&show_icons=true&theme=gruvbox&hide_rank=true&card_width=200)
 
 </div>
