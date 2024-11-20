@@ -44,6 +44,8 @@
 ## 🚀 Latest Projects
 
 - [MazeGeneratorAndSolver](https://github.com/Antoni-Vasilev/MazeGeneratorAndSolver)
+- [Calculator](https://github.com/Antoni-Vasilev/Calculator)
+- [Snowflake](https://github.com/Antoni-Vasilev/Snowflake)
 
 ---
 
